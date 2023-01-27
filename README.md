@@ -1,5 +1,3 @@
-# dollar-price
-
 ## Build Setup
 
 ```bash
