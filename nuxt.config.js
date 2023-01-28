@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'dollar-price',
+    title: 'gonzalonietot',
     htmlAttrs: {
       lang: 'en'
     },
@@ -17,9 +17,7 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
-    link: [
-      { rel: 'image', type: 'image/jpg', href: '/homero.jpg' }
-    ]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
